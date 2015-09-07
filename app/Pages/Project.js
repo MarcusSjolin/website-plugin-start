@@ -18,7 +18,7 @@ module.exports = function (app) {
                                     <li>Browser-Sync individual watchers in dev for plugins to reload</li>
                                     <li>Translations</li>
                                     <li>Single Page Examples with React and React-Router</li>
-                                    <li></li>
+                                    <li>Admin Page for Plugins</li>
                                     <li></li>
                                 </ul>
                             </p>
@@ -28,7 +28,7 @@ module.exports = function (app) {
                                 <ul>
                                     <li>Plugin Management</li>
                                     <li>Template Management</li>
-                                    <li></li>
+                                    <li>Authentication / Permissions</li>
                                 </ul>
                             </p>
                             <h1>Future</h1>
